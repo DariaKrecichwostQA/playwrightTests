@@ -1,0 +1,20 @@
+{
+  "name": "xyz-qa-coding-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "@playwright/test": "^1.45.2",
+    "moment": "^2.30.1",
+    "dotenv": "^16.4.7",
+    "wait-for-expect": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.3"
+  }
+}
